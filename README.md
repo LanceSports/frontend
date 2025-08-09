@@ -1,2 +1,3 @@
 # frontend
-Backend service for handling match data, event logging, and live updates via APIs.
+Frontend app for live sports match visualization with real-time scores, events, and user interaction.
+
